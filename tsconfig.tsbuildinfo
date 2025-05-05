@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/abis/claimcontract.ts","./src/components/claimform.tsx","./src/components/customconnectbutton.tsx","./src/components/layout.tsx","./src/components/navbar.tsx","./src/components/referrallink.tsx","./src/contracts/claimcontract.ts","./src/providers/walletprovider.tsx"],"version":"5.7.3"}
