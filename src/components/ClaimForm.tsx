@@ -257,7 +257,7 @@ const ClaimForm = () => {
             </div>
 
             <div className="bg-gray-50 p-3 border border-gray-200 rounded-lg shadow-sm text-center">
-              <p className="text-sm text-gray-500">ETH Rewards</p>
+              <p className="text-sm text-gray-500">BNB Rewards</p>
               <p className="text-xl font-bold text-gray-800">
                 {referralEarnings.toFixed(6)}
               </p>
